@@ -23,7 +23,7 @@ WSDL - Web Services Description Language
 
 Usado para descrever Web Services, funciona com um CONTRATO do serviço.
 
-A descrição é feito em um documento XML, onde é descrito o serviça, especificações de acesso,
+A descrição é feito em um documento XML, onde é descrito o serviço, especificações de acesso,
 operações e métodos.
 
 

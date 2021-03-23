@@ -18,8 +18,8 @@ Vantagens e Desvantagens do Web Service
 ======================= Serviços Web ===========================
 
 
-Serviços Web ou Web Services são soluções para aplicações se comunicarem independente de l
-inguagem, software e hardware utilizados.
+Serviços Web ou Web Services são soluções para aplicações se comunicarem independente de
+linguagem, software e hardware utilizados.
 
 Inicialmente Serviços Web foram criados para troca de mensagens utilizando a linguagem XML(Entensible
 Markup Language) sobre o protocolo HTTP sendo identificado por URI( Uniform Reource Identifier)

@@ -64,7 +64,7 @@ suas funcionalidades.
 
 Ficou popular com o aumento de serviços web.
 
-As maiores plataformad de tecnologia disponibilizam API para acessos de suas funcionalidades, algumas delas são:
+As maiores plataformas de tecnologia disponibilizam API para acessos de suas funcionalidades, algumas delas são:
 Facebook, Twitter, Telegram, Whatsapp, Github..
 
 
@@ -79,7 +79,7 @@ DELETE - Solicita a exclusão de um recurso.
 PUT - Solicita a atualização de um recurso.
 
 
-Esses são os principais, existem outros.
+Esses são os principais, existem outros. Ver no link abaixo:
 https://developer.mozilla.org/en-US/docs/Web/HTTP/Methods
 
 https://developer.twitter.com/en/docs/api-reference-index

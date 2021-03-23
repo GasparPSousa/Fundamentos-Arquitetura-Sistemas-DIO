@@ -42,7 +42,7 @@ Meio de transporte genérico, ou seja, pode ser usado por outros protocolos alé
 
 ========================= XML =======================================
 
-XML - Entensible Markup Language
+XML - Extensible Markup Language
 
 É uma linguagem de marcação criada na década de 90 pela W3C.
 
