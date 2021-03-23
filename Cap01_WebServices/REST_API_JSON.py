@@ -80,6 +80,9 @@ PUT - Solicita a atualização de um recurso.
 
 
 Esses são os principais, existem outros.
+https://developer.mozilla.org/en-US/docs/Web/HTTP/Methods
+
+https://developer.twitter.com/en/docs/api-reference-index
 
 Para ser REST tem que usar esses métodos HTTP.
 
