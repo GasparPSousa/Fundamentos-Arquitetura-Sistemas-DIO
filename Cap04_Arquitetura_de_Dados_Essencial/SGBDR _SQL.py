@@ -23,6 +23,15 @@ CREATE TABLE Cliente
     );
 
 
+MUITA ATENÇÂO!!!!  Comandos DDL como CREATE, DROP que ALTERAM a estrutura NÃO NECESSITAM de commit.
+Ou seja, o commit é automático.
+
+MUITO CUIDADO!!!! quando for dar um DROP em qq estrutura do banco porque não tem volta.
+
+Se vc der um DROP na tabela que é diferente do DELETE de registros, esse processo não tem volta.
+
+
+
 ======================================= DML ===================================================
 
 INSERT into Cliente(codigo, nome, telefone)
